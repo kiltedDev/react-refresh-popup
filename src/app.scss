@@ -1,13 +1,17 @@
 #element_to_pop_up
 {
-   background-color:#fff;
-   border-radius:15px;
-   color:#000;
-   display:none;
-   padding:20px;
-   min-width:200px;
-   min-height: 180px;
-   float: right;
+  background-color: #DF49BE;
+  color: #F1D663;
+  text-align: center;
+  padding: 20px;
+  width: 90%;
+  height: 75%;
+  border-radius: 20px;
+  margin: auto;
+}
+#boxed{
+  text-align: right;
+  color: #98297D;
 }
 span.button.b-close {
   top: 3px;
