@@ -1,0 +1,27 @@
+#element_to_pop_up
+{
+   background-color:#fff;
+   border-radius:15px;
+   color:#000;
+   display:none;
+   padding:20px;
+   min-width:200px;
+   min-height: 180px;
+   float: right;
+}
+span.button.b-close {
+  top: 3px;
+  right: 8px;
+  background-image:url('http://i.imgur.com/RIIV8.png');
+  float: right;
+  display: block;
+  width: 68px;
+  height: 34px;
+  background-repeat: no-repeat;
+  outline: none;
+  text-align: right;
+}
+
+.boxed {
+  text-align: right;
+}
